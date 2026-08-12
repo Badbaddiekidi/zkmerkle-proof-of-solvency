@@ -228,3 +228,4 @@ Run the following command to query witness data which is the input of circuit:
 ```shell
 cd src/dbtool; go run main.go -query_witness_data 9
 ```
+BatchCreateUserOpsCountsTiers = {700: 128, 500: 192, 50: 1216}
